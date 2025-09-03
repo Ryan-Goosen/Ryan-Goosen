@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There 🌟: </h1>
 
-### Introduction
+### Introduction 👋
 I’m a software developer with a passion for automating systems.
 Lately, I’ve been deeply fascinated by self-hosting — a journey that’s taken me down a delightful Docker rabbit hole.
 
