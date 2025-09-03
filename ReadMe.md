@@ -13,4 +13,6 @@ Currently, I’m learning **Go** to expand my backend skill set.
 ### 🚧 Current Project
 I’m working on a program that notifies me whenever there’s a sports game I’d like to watch — personalized to my preferences.
 
+---
+
 [image-ref]: assets/Ryan-Goosen.png
