@@ -4,7 +4,7 @@
 
 ### Introduction 👋
 I’m a software developer with a passion for automating systems.
-Lately, I’ve been deeply fascinated by self-hosting — a journey that’s taken me down a delightful Docker rabbit hole.
+Lately, I’ve been deeply fascinated by self-hosting a journey that’s taken me down a delightful Docker rabbit hole.
 
 ### 🧰 Experience
 I primarily use **Python** for my personal projects, but I also have extensive experience with **Java**.  
