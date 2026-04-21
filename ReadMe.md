@@ -13,8 +13,6 @@ I build tools that automate real workflows and manage self‑hosted infrastructu
 **Pinned Projects**  
 - **Movie Time** – React/Supabase movie discovery app (deployed on Vercel)  
 - **Run On Anything** – Python import hook that bypasses grading bots to allow any third‑party package  
-- **SportsWatch** – CLI tool for F1 race schedules from terminal (Python + REST APIs + GitLab CI)  
-- **Go‑UNO** – Learning Go by building card game logic (concurrency focus)
 
 **Currently building**  
 - CI/CD pipeline for Python apps (pytest + Docker + auto‑deploy)  
