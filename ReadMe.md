@@ -12,7 +12,9 @@ I build tools that automate real workflows and manage self‑hosted infrastructu
 
 **Pinned Projects**  
 - **Movie Time** – React/Supabase movie discovery app (deployed on Vercel)  
-- **Run On Anything** – Python import hook that bypasses grading bots to allow any third‑party package  
+- **Run On Anything** – Python import hook that bypasses grading bots to allow any third‑party package
+- **Pomodora Clock** – Desktop productivity timer with sound alerts and task logging (Python, Tkinter, packaged as .exe/.deb)
+- **Quiz App** – Terminal‑based trivia game (Python, JSON question bank, score tracking) 
 
 **Currently building**  
 - CI/CD pipeline for Python apps (pytest + Docker + auto‑deploy)  
