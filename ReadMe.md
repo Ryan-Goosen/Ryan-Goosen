@@ -21,7 +21,7 @@ I build tools that automate real workflows and manage self‑hosted infrastructu
 - Ansible playbook for server provisioning  
 - Health monitoring & auto‑healing script for Docker containers
 
-**Open to junior automation or backend roles – especially those valuing infrastructure and reliability.**
+**Open to automation or backend roles – especially those valuing infrastructure and reliability.**
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ryan-goosen/)
 * For professional inquiries, please connect with me on **[LinkedIn](https://www.linkedin.com/in/ryan-goosen/)**.
