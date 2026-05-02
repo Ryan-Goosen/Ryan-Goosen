@@ -17,9 +17,7 @@ I build tools that automate real workflows and manage self‑hosted infrastructu
 - **Quiz App** – Terminal‑based trivia game (Python, JSON question bank, score tracking) 
 
 **Currently building**  
-- CI/CD pipeline for Python apps (pytest + Docker + auto‑deploy)  
-- Ansible playbook for server provisioning  
-- Health monitoring & auto‑healing script for Docker containers
+- Completing Old Ideas...
 
 **Open to automation or backend roles – especially those valuing infrastructure and reliability.**
 
