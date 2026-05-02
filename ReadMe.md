@@ -16,9 +16,6 @@ I build tools that automate real workflows and manage self‑hosted infrastructu
 - **Pomodora Clock** – Desktop productivity timer with sound alerts and task logging (Python, Tkinter, packaged as .exe/.deb)
 - **Quiz App** – Terminal‑based trivia game (Python, JSON question bank, score tracking) 
 
-**Currently building**  
-- Completing Old Ideas...
-
 **Open to automation or backend roles – especially those valuing infrastructure and reliability.**
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ryan-goosen/)
