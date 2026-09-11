@@ -20,6 +20,8 @@ I build tools that automate real workflows and manage self‑hosted infrastructu
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ryan-goosen/)
 * For professional inquiries, please connect with me on **[LinkedIn](https://www.linkedin.com/in/ryan-goosen/)**.
+
+
 **Portfolio:** [Portfolio](https://ryan-goosen.github.io/profile/) 
 
 [image-ref]: assets/Ryan-Goosen.png
