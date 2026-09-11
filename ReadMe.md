@@ -1,7 +1,7 @@
 ![Github-Banner][image-ref]
 
 <h1 align="center">Hi There 🌟: I'm Ryan Goosen</h1>
-<div align="center" ><strong>Automation Engineer | Python, Docker, Linux, CI/CD | [Portfolio](https://ryan-goosen.github.io/profile/) </strong></div>
+<div align="center" ><strong>Automation Engineer | Python, Docker, Linux, CI/CD | </strong></div> [Portfolio](https://ryan-goosen.github.io/profile/) 
 </br>
 I build tools that automate real workflows and manage self‑hosted infrastructure. My Ubuntu server runs Docker containers, a Twingate zero‑trust network, and achieves 99.97% uptime via automated daily reboots.
 
